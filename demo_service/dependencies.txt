@@ -1,0 +1,9 @@
+# Local shared libs
+--editable ../demo_libs
+
+# 3rd party libs
+black
+coverage
+mock
+pytest
+requests_mock

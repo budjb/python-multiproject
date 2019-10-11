@@ -1,0 +1,6 @@
+black
+coverage
+mock
+pytest
+requests
+requests_mock
